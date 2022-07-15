@@ -1,11 +1,12 @@
 0x11. C - printf
 
-Authored by Emem Udofia and Deborah Paul
+Authored by Emem and Deborah
 
 The printf() function sends a formatted string to the standard output (the display)
 
 
 #Requirements
+General
 
 Allowed editors: vi, vim, emacs
 All your files will be compiled on Ubuntu 20.04 LTS using gcc, using the options -Wall -Werror -Wextra -pedantic -std=gnu89
